@@ -10,7 +10,7 @@ with errors in Rust. More than that, we will attempt to introduce error handling
 one piece at a time so that you'll come away with a solid working knowledge of
 how everything fits together.
 
-When done naïvely, error handling in Rust can be verbose and annoying. This
+When done naively, error handling in Rust can be verbose and annoying. This
 section will explore those stumbling blocks and demonstrate how to use the
 standard library to make error handling concise and ergonomic.
 
